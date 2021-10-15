@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "json-server series.json --port 3001"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
